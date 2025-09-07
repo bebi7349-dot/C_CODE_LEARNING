@@ -38,9 +38,9 @@ This is my first repository where I am learning and practicing C programming. It
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=your-username&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bebi7349-dot&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebi7349-dot&layout=compact&theme=radical)  
+![Streak Stats](https://streak-stats.demolab.com/?user=bebi7349-dot&theme=radical)  
 
 ---
 
