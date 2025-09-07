@@ -1,0 +1,17 @@
+#include <stdio.h>
+union Data {
+ int i;
+ float f;
+ char str[20];
+};
+int main() {
+ union Data data;
+ data.i = 10;
+ printf("data.i = %d\n", data.i);
+ data.f = 220.5;
+ printf("data.f = %.2f\n", data.f);
+ // Storing string in union will overwrite previous values
+ strcpy(data.str, "Hello");
+ printf("data.str = %s\n", data.str);
+ return 0;
+}
